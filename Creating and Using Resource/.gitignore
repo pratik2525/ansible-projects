@@ -1,0 +1,4 @@
+# Ignore Ansible Vault files
+group_vars/all/pass.yml
+vault.pass
+
