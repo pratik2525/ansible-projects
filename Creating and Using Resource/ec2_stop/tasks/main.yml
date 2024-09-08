@@ -6,7 +6,7 @@
     state: stopped
     instance_ids:
       - i-07028663bfb34d0b5 # Replace with your instance ID(s)
-    region: us-west-2  # Replace with your desired region
+    region: ca-central-1  # Replace with your desired region
     aws_access_key: "{{ ec2_access_key }}"
     aws_secret_key: "{{ ec2_secret_key }}"
 
